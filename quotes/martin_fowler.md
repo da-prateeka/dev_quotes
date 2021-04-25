@@ -16,6 +16,6 @@ hardware platform when it might actually be cheaper to buy more hardware.
 [2012, Patterns of Enterprise Application Architecture]
 
 
-comprehensive status!!!!!!
+comprehensive status!!!!!!.
 
 
