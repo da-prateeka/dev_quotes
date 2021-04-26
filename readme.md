@@ -16,3 +16,7 @@ softare developer
 
 Linus
 Larry
+
+alan kay
+
+stoustrup
